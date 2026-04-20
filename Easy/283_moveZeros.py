@@ -11,6 +11,3 @@ class Solution(object):
                 nums[prev] = nums[i]
                 nums[i] = hold
                 prev += 1
-
-
-#Changes
